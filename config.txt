@@ -1,0 +1,6 @@
+owner=431855325012951050
+prefix=!
+game=By AlMpy    MeloDy.is ONe
+stayinchannel=true
+songinstatus=false
+token=NTQ1MDI2Nzc2MjYzNDI2MDY4.D0mClQ.b7nmg7FntWhi-mwu-IDL342kLs4
